@@ -18,4 +18,7 @@ console.log(phonN3);
 student1[phonPropName]=99999999;
 console.log(student1);
 console.log(student2);
+student1.cinema="ogni2";
+student1['cinema']="ogni3";
+console.log(student1);
 
