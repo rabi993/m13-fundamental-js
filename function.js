@@ -39,3 +39,10 @@ function add(num1,num2){
 }
 var sum = add(15,23);
 console.log(sum);
+// drgidruhgdiruufhdriuur
+function adds(num1,num2,num5){
+    var result = num1+ num2-num5;
+    return result;
+}
+var sum1 = adds(15,23,45);
+console.log(sum1);
