@@ -18,4 +18,14 @@ teaLine.pop();
 console.log(teaLine);
 teaLine.pop();
 console.log(teaLine);
+// dfv v v v v v v v v v v v v v guhyjutgdrhtg
+teaLine.shift(); //out first
+console.log(teaLine);
+teaLine.unshift('mama'); //insert first
+console.log(teaLine);
+var part=teaLine.slice(3); //slice
+console.log(part);
+var part=teaLine.slice(3,5); //slice
+console.log(part);
+console.log(teaLine);
 
