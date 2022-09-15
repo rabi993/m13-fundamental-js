@@ -12,4 +12,10 @@ console.log(phonN2);
 var phonPropName ="phone";
 var phonN3 =student2[phonPropName];
 console.log(phonN3);
+//update phone number
+// student1.phone=222222222222;
+// student1["phone"]=5555555;
+student1[phonPropName]=99999999;
+console.log(student1);
+console.log(student2);
 
